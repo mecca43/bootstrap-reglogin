@@ -1,0 +1,32 @@
+body{
+    background-color: silver;
+}
+
+.container{
+    background-color: white;
+    box-shadow: 0 0 10px gray;
+}
+
+header{
+    background-color: slategray;
+    color: white;
+    text-align: center;
+    font-size: 200%;
+    padding: 20px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 80%;
+    padding: 10px;
+}
+
+h1{
+    text-transform: uppercase !important;
+    font-size: 150%;
+    text-align: center;
+    padding: 10px 0;
+}
